@@ -1,1 +1,3 @@
 Pandas Version: 2.3
+kaggleHub Version: 0.3.13
+matplotlib Version: 3.10.7
