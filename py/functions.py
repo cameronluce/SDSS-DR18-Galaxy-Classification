@@ -2,6 +2,7 @@ import kagglehub #used to get the data from kaggle.com
 from kagglehub import KaggleDatasetAdapter #used to fetch the specific dataset from kaggle
 import pandas as pd #used for viewing and manipulating the data
 import matplotlib.pyplot as plt #used for data visulisation
+import sklearn as skl
 
 #all helper functions used below
 def dataGrabber(): #fetches data from kaggle.com and returns it
