@@ -2,7 +2,7 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/bryancimo/s
 
 ## Acknowledgements:
 
-- Dan Tassie; provided assistance with understanding the coursework structure
+- Dan Tassie; provided assistance with understanding the coursework structure and format
 - Copilot AI; provided by Microsoft, used for debugging
 - Chat GPT AI; provided by OpenAI, used for debugging
 
